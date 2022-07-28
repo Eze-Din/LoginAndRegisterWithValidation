@@ -1,0 +1,9 @@
+﻿  Program.cpp
+E:\Visual Studio\Project\MyCafe\MyCafe\LoginForm.h(215,21): warning C4101: 'e': unreferenced local variable
+E:\Visual Studio\Project\MyCafe\MyCafe\RegisterForm.h(330,21): warning C4101: 'ex': unreferenced local variable
+E:\Visual Studio\Project\MyCafe\MyCafe\Program.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  RegisterForm.cpp
+E:\Visual Studio\Project\MyCafe\MyCafe\RegisterForm.h(330,21): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyCafe.vcxproj -> E:\Visual Studio\Project\MyCafe\x64\Debug\MyCafe.exe

@@ -1,0 +1,3 @@
+this->Hide();
+	FFMLoginForm ^ fs = gcnew FFMLoginForm();
+	fs->ShowDialog();

@@ -1,0 +1,6 @@
+E:\Visual Studio\Project\MyCafe\MyCafe\x64\Debug\MyCafe.vcxproj.AssemblyReference.cache
+E:\Visual Studio\Project\MyCafe\MyCafe\x64\Debug\MyCafe.vcxproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Project\MyCafe\MyCafe\x64\Debug\MyCafe.LoginForm.resources
+E:\Visual Studio\Project\MyCafe\MyCafe\x64\Debug\MyCafe.MainForm.resources
+E:\Visual Studio\Project\MyCafe\MyCafe\x64\Debug\MyCafe.RegisterForm.resources
+E:\Visual Studio\Project\MyCafe\MyCafe\x64\Debug\MyCafe.vcxproj.GenerateResource.cache
